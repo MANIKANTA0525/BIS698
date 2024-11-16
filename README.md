@@ -73,12 +73,6 @@ This project is a **Python-based GUI application** designed for the **Merrill Vi
 
 ---
 
-## Screenshots
-
-*(Include screenshots of the Admin and User Interfaces, including login, menu, and order management pages.)*
-
----
-
 ## Future Enhancements
 
 - **Admin Page**:
